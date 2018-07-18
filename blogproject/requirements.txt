@@ -1,0 +1,4 @@
+django==1.10.5
+markdown==2.6.11
+PyMySQL
+pillow==2.8.1
